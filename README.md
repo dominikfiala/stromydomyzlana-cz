@@ -1,0 +1,1 @@
+# stromydomyzlana-cz
