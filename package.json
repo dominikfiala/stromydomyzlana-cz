@@ -1,0 +1,22 @@
+{
+  "name": "stromydomyzlana-cz",
+  "version": "1.0.0",
+  "description": "Výškové práce a arboristika Miroslav Hrnčíř, webová prezentace",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dominikfiala/stromydomyzlana-cz.git"
+  },
+  "author": "Dominik Fiala <domo.fiala@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dominikfiala/stromydomyzlana-cz/issues"
+  },
+  "homepage": "https://github.com/dominikfiala/stromydomyzlana-cz",
+  "devDependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
